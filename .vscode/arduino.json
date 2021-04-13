@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "myBlinkWithFunction/myBlinkWithFunction.ino",
+    "port": "/dev/tty.usbmodem1411301"
+}
