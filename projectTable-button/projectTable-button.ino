@@ -25,8 +25,8 @@ enum BUTTON_STATES {
 
 State state = REST;
 int buttonValueThreshold = 1000;
-long BOTTOM_HEIGHT = 69;
-long TOP_HEIGHT = 106;
+long BOTTOM_HEIGHT = 64;
+long TOP_HEIGHT = 102;
 
 long heightFromFloor;
 
